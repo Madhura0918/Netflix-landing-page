@@ -25,7 +25,7 @@ Styled buttons and typography
 
 📌 How to View Locally
 Clone the repository
-git clone https://github.com/yourusername/netflix-clone-html-css.git
+git clone 
 Open index.html in your browser
 
 📄 License
