@@ -25,7 +25,7 @@ Styled buttons and typography
 
 📌 How to View Locally
 Clone the repository
-git clone 
+git clone https://github.com/Madhura0918/Netflix-landing-page.git
 Open index.html in your browser
 
 📄 License
