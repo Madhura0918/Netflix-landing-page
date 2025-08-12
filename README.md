@@ -7,6 +7,16 @@ HTML5 for structure
 CSS3 for styling and layout
 Flexbox and CSS Grid for responsiveness
 
+📂 Project Structure
+markdown
+Copy
+Edit
+├── index.html
+├── style.css
+└── assets/
+    ├── images/
+    └── videos/
+
 🎯 Features
 Clean and responsive design
 Netflix-inspired UI
